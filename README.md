@@ -17,4 +17,4 @@ O roteiro foi desenvolvido com a ajuda do ChatGPT, usando prompts específicos p
 
 ## 🚀 Resultados
 
- O resultado é um podcast incrível sobre tecnologia! Você pode conferi-lo [clicando aqui]().
+ O resultado é um podcast incrível sobre tecnologia! Você pode conferi-lo [clicando aqui](output).
